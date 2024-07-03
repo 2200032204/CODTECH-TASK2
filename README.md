@@ -8,7 +8,7 @@
  **OVERVIEW OF THE PROJECT:-**
 
  **PROJECT:** WEATHER FORECAST APP
- C:\Users\siris\OneDrive\Pictures\Screenshots
+ 
 
  **OBJECTIVE:**
  The objective of a weather forecast app is to provide users with accurate and timely information about current and future weather conditions.
