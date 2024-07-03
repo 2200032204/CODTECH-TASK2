@@ -8,6 +8,8 @@
  **OVERVIEW OF THE PROJECT:-**
 
  **PROJECT:** WEATHER FORECAST APP
+ ![weatherforecast ss](https://github.com/2200032204/CODTECH-TASK2/assets/172985005/0164380c-ba7b-4ba3-93eb-de377d68db61)
+
  
 
  **OBJECTIVE:**
